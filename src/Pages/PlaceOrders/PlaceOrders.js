@@ -42,7 +42,7 @@ const PlaceOrders = () => {
     
     return (
         <div>
-            <h1>This is place Order page :{id}</h1>
+            <h1 style={{color:'goldenrod',margin:'30px'}}>Please Order Your Product</h1>
             <div className="container">
                 <div className="row">
                     <div className="col-md-6">
